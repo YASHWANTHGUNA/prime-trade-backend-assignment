@@ -28,4 +28,17 @@ It includes secure authentication, role-ready architecture, and CRUD APIs.
 - DELETE /api/v1/tasks/:id
 
 ## API Documentation
-Swagger UI available at:
+Swagger UI available at: http://localhost:5000/api-docs
+
+## Setup Instructions
+1. Clone the repository
+2. Install dependencies  
+   `npm install`
+3. Create a `.env` file with required variables
+4. Run the server  
+   `npm run dev`
+
+## Status
+- Backend APIs: Completed
+- Swagger Documentation: Added
+- Frontend: Planned / In Progress
